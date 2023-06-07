@@ -1,0 +1,17 @@
+{
+  "name": "uip2",
+  "version": "1.0.0",
+  "description": "project 2 for UI Design at SNU",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Andrew Knotts",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^5.0.0",
+    "parcel": "^2.9.1",
+    "three": "^0.153.0"
+  }
+}
